@@ -1,12 +1,16 @@
 language: php
 php:
-- 7.2
+  - 7.1.9
+
 cache:
- directories:
-   - $HOME/.composer/cache/files
-   - ./bin/.phpunit
-env: global:
-   - SYMFONY_DEPRECATIONS_HELPER=weak
+  directories:
+    - $HOME/.composer/caches/files
+    - ./bin/.phpunit
+
+env:
+  global:
+    - SYMFONY_DEPRECATIONS_HELPER=weak
+
 install:
- - composer install
- - php bin/phpunit
+  - composer install
+  - php bin/phpunit
