@@ -1,0 +1,17 @@
+90316d,127.0.0.1,GET,http://127.0.0.1:8000/,1549528375,,404
+77d161,127.0.0.1,GET,http://127.0.0.1:8000/favicon.ico,1549528376,3525a2,200
+3525a2,127.0.0.1,GET,http://127.0.0.1:8000/favicon.ico,1549528376,,404
+a02c3e,127.0.0.1,GET,http://localhost:8000/usager/Bob,1549531084,ea1d8b,200
+ea1d8b,127.0.0.1,GET,http://localhost:8000/usager/Bob,1549531084,,500
+274ac2,127.0.0.1,GET,http://localhost:8000/usager/Bob,1549531115,187d8d,200
+187d8d,127.0.0.1,GET,http://localhost:8000/usager/Bob,1549531115,,404
+7bf6ac,127.0.0.1,GET,http://localhost:8000/usager/bob,1549531123,22f2c0,200
+22f2c0,127.0.0.1,GET,http://localhost:8000/usager/bob,1549531123,,404
+998c66,127.0.0.1,GET,http://localhost:8000/usager/Dylan,1549531159,,200
+3e06dc,127.0.0.1,GET,http://localhost:8000/favicon.ico,1549531160,efebd7,200
+efebd7,127.0.0.1,GET,http://localhost:8000/favicon.ico,1549531160,,404
+df0546,127.0.0.1,GET,http://localhost:8000/usager/Dylan,1549531228,,200
+9f3c75,127.0.0.1,GET,http://127.0.0.1:8000/usager/Dylan,1549531267,,200
+50a9ec,127.0.0.1,GET,http://127.0.0.1:8000/usager/Dylan,1549531413,,200
+d9f153,127.0.0.1,GET,http://127.0.0.1:8000/usager/dlamerde,1549531433,0ba4ae,200
+0ba4ae,127.0.0.1,GET,http://127.0.0.1:8000/usager/dlamerde,1549531433,,404
