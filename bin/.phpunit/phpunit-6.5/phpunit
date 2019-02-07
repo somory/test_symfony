@@ -1,6 +1,6 @@
 <?php
 
-define('PHPUNIT_COMPOSER_INSTALL', './vendor/autoload.php');
+define('PHPUNIT_COMPOSER_INSTALL', __DIR__.'/vendor/autoload.php');
 require PHPUNIT_COMPOSER_INSTALL;
 
 if (!class_exists('SymfonyBlacklistPhpunit', false)) {
